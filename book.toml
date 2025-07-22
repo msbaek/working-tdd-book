@@ -1,0 +1,5 @@
+[book]
+authors = ["Myeongseok Baek"]
+language = "en"
+src = "src"
+title = "Working TDD in The AI Era"
